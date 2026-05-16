@@ -143,8 +143,8 @@ print(V)
 ```
 
 ## Output
+<img width="911" height="477" alt="image" src="https://github.com/user-attachments/assets/39ee45cc-277d-495c-832d-c839fafb2f46" />
 
-img width="911" height="477" alt="image" src="https://github.com/user-attachments/assets/6b3504f6-8f01-4220-a215-e0e8cb674e35" />
 
 
 ## Result
