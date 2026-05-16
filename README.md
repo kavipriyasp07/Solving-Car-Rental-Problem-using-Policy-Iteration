@@ -25,11 +25,13 @@ Step-6: Display the optimal policy and value function.
 
 
 ## Program
+```
 NAME:KAVIPRIYA SP
 REG NO:2305002011
----
----
 ```
+
+```python
+
 #Solving car rental problem using Policy Iteration 
 
 import numpy as np
@@ -146,8 +148,6 @@ print(V)
 <img width="911" height="477" alt="image" src="https://github.com/user-attachments/assets/6b3504f6-8f01-4220-a215-e0e8cb674e35" />
 
 ```
-
----
 
 ## Result
 
